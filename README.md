@@ -2,6 +2,9 @@
 
 I'm Julian, a Data and MLOps Engineer and I like to build stuff👷‍♂️.
 
+I have 4+ years of professional experience in data. Working first as a data analyst, then data scientist and more recently as a data/machine learning engineer. Interested in all things Data Science, Machine Learning and MLOps - I love building reproducible, scaleable and trustworthy ML model training pipelines which can be used in production.
+
+I have recently started writing blog posts documenting and sharing some of my experiences and opinions on data science. Please check out some of my articles [here](https://engineeringfordatascience.com/archives)!
 
 ## Tools I like to use...
 
@@ -14,6 +17,5 @@ I'm Julian, a Data and MLOps Engineer and I like to build stuff👷‍♂️.
 - [LinkedIn](https://www.linkedin.com/in/westjc/)
 - [My blog](https://engineeringfordatascience.com/) - Engineering for Data Science
 
-<!---
+
 ![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julian-west&count_private=true&show_icons=true&theme=algolia) 
---->
