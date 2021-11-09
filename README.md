@@ -16,7 +16,7 @@ I have recently started writing blog posts documenting and sharing some of my ex
 
 ## 🔎 You can find me at...
 
-- [LinkedIn](https://www.linkedin.com/in/westjc/)
+- [LinkedIn](https://www.linkedin.com/in/westjc/) - Feel free to connect!
 - [My blog](https://engineeringfordatascience.com/) - Engineering for Data Science
 
 
