@@ -4,7 +4,7 @@ I'm Julian, a Data and MLOps Engineer and I like to build stuff👷‍♂️.
 
 I have 4+ years of professional experience in data. Working first as a data analyst, then data scientist and more recently as a data/machine learning engineer. Interested in all things Data Science, Machine Learning and MLOps - I love building reproducible, scaleable and trustworthy ML model training pipelines which can be used in production.
 
-I have recently started writing blog posts documenting and sharing some of my experiences and opinions on data science. Please check out some of my articles [here](https://engineeringfordatascience.com/archives)!
+I recently started writing blog posts documenting and sharing some of my experiences and opinions on data science. Please check out some of my articles [here](https://engineeringfordatascience.com/archives)!
 
 ## Tools I like to use...
 
